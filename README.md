@@ -16,4 +16,4 @@ pip install mplhep
 ## File Format
 Files are named "<filament_and_treatment>_<infill_overlap>_<layer_height>_<sample_no>.csv".
 
-Some analysis scripts are also provided for interest4ed readers.
+Some analysis scripts are also provided for interested readers.
