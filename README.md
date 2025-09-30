@@ -1,4 +1,4 @@
-# FFF for Low Vacuum Aoolications - Data
+# FFF for Low Vacuum Applications - Data
 Python scripts and raw data from evacuation and leak curves (10 minute duration each)
 
 ## Special Dependencies
